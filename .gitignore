@@ -1,0 +1,2 @@
+#ignore arquivos com extensão .txt
+*.txt
